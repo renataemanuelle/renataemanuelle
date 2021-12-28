@@ -2,8 +2,8 @@
 
 <h5>
   <img alt="Graduation Cap" src="https://user-images.githubusercontent.com/23350196/128587458-56a4be92-80b1-40e0-9f78-cbd406b48f68.png" width="21"> Formada em Matemática e Sistemas de Informação<br />
-  <img alt="Woman Technologist" src="https://user-images.githubusercontent.com/23350196/128587578-408c64bc-5fc3-4c08-b617-b06f4b4b2994.png" width="21"> Atuo como Product Owner<br />
-  <img alt="Laptop" src="https://user-images.githubusercontent.com/23350196/128587626-7ea5fcd3-4450-4183-857b-48792b038a32.png" width="21"> Programo nas horas vagas<br />
+  <img alt="Woman Technologist" src="https://user-images.githubusercontent.com/23350196/128587578-408c64bc-5fc3-4c08-b617-b06f4b4b2994.png" width="21"> Atuo como Mobile Developer<br />
+  <img alt="Laptop" src="https://user-images.githubusercontent.com/23350196/128587626-7ea5fcd3-4450-4183-857b-48792b038a32.png" width="21"> React Native<br />
   <img alt="Television" src="https://user-images.githubusercontent.com/23350196/128587478-6d8afd7f-c1f7-4aa6-8cf8-f550d9c659a7.png" width="21"> Animes<br />
   <img alt="Video Game" src="https://user-images.githubusercontent.com/23350196/128592519-f1581c12-30b9-47dd-9ebe-5ecfe75e7f8b.png" width="21"> Games<br />
   <img alt="Woman" src="https://user-images.githubusercontent.com/23350196/128587622-e3b05ae7-bc94-472f-b62d-7526229f8410.png" width="21"> Pronomes: ela/dela<br />
